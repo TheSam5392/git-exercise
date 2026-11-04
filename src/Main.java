@@ -9,5 +9,8 @@ public class Main {
         System.out.println(calc.subtract(2, 3));
         System.out.println(calc.multiply(2, 3));
         System.out.println(calc.divide(2, 3));
+
+
+        System.out.println(calc.power(2, 3));
     }
 }
